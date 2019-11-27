@@ -1,1 +1,1 @@
-# pwi-wyklad
+# Przykład na wykład
